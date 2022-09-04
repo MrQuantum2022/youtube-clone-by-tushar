@@ -1,0 +1,217 @@
+p{
+    font-family: roboto;
+    color: white;
+}
+.linediv,.linediv1,.linediv2{
+   background-color:gray ;
+   font-size: 1px;
+   margin: 0px;
+   padding: 0px;
+
+}
+.linediv1,.linediv2{
+    padding-top: 2px;
+    background-color: #403f3f;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+
+}
+.linediv2{
+    margin-bottom: 60px;
+}
+.search{
+    display: inline-block;
+    margin-left:5%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-width: 0.5px;
+    padding: 4px;
+    border-color:gray;
+    border-radius: 30px;
+    padding-right: 280px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family: roboto;
+    background-color: black;
+    border-style: solid;
+}
+.microphone{
+    display: inline-block;
+    width: 40px;
+    vertical-align: top;
+    margin-top: 20px;
+    border-radius:20px;
+    background-color: white;
+}
+
+
+.box1{
+    width: 300px;
+    display: inline-block;
+    margin-left: 8px;
+    margin-bottom: 25px;
+}
+.img_1{
+    width: 300px;
+}
+.info_bar{
+    
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+}
+.channel_pic1{
+    vertical-align: top;
+    display: inline-block;
+    width: 50px;
+}
+.channel1{
+    display: inline-block;
+    width: 40px;
+    border-radius: 25px;
+}
+.title{
+    display: inline-block;
+    width: 240px;
+    margin: 0px;
+    margin-left: 10px;
+}
+.para{
+    display: inline-block;
+    margin: 0px;
+}
+.channelheading{
+    display: inline-block;
+}
+.channel_title{
+    margin:0px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.channel{
+    display: inline-block;
+}
+.channel-name{
+    margin: 0PX;
+    margin-top: 5px;
+    font-size: 14px;
+    margin-right: 40px;
+
+}
+.other{
+    display: inline-block;
+}
+.other-info{
+    margin: 0px;
+    font-size: 14px;
+    margin-top: 3px;
+    
+}
+.channel_pic1,.title{
+    margin-top: 10px;
+}
+.headbuttons{
+    padding: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    border-color: rgb(105, 102, 102);
+    border-style: solid;
+    border-radius:20px;
+    border-width: 1px;
+    background-color: rgb(56, 53, 53);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: white;
+    transform: opacity 0.25s;
+}
+
+.headbuttons:hover{
+    opacity: 0.6;
+}
+
+.mainbox{
+    background-color:rgb(35, 33, 33);
+    padding-top: 10px;
+    
+}
+.upperbox{
+    background-color: #282828;
+    padding-bottom: 0px;
+}
+.logo{
+
+    width: 60px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    vertical-align: top;
+    margin-top: 10px;
+   
+}
+.logoline{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 27px;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: roboto condensed;
+}
+.trademark{
+    display: inline-block;
+    margin: 0px;
+    font-size: 10px;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+
+.shortslogo{
+    width: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+    vertical-align: top;
+    margin: 0px;
+}
+.shortstitle{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    font-weight: 400;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.shorts{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.shortsbanner{
+    width: 190px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.shorts-head{
+    width: 190px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-top: 7px;
+    font-weight: 500;
+}
+.views{
+    width: 190px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-top: 7px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: rgb(155, 151, 151);
+}
