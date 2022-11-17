@@ -1,5 +1,6 @@
 *{
     margin:0px
+    padding :0px
 }
 
 
@@ -42,6 +43,7 @@ p{
     font-family: roboto;
     background-color: black;
     border-style: solid;
+    text-color:white;
 }
 .microphone{
     display: inline-block;
